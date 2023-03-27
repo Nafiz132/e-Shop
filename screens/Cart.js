@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
   },
   cartLineTotal: { 
     flexDirection: 'row',
-    borderTopColor: '#dddddd',
+    borderTopColor: '#bbbbbb',
     borderTopWidth: 1
   },
   lineTotal: {
@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#eeeeee',
   },
   itemsListContainer: {
-    backgroundColor: '#eeeeee',
+    backgroundColor: '#ffffff',
     paddingVertical: 8,
     marginHorizontal: 8,
   },
